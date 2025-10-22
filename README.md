@@ -1,5 +1,5 @@
 ### 👋 Hello there!  
-My name is **Margaux Girona**, and I’m from France 🇫🇷🥖  
+My name is **Margaux Girona**, and I’m from France🥖  
 
 I’m currently an **engineering student at [ESILV](https://www.esilv.fr/)**, specializing in **finance and applied mathematics**.  
 Last year, I was the captain of the university rowing association 🚣‍♀️ — which actually meant I was also the coach!  
