@@ -1,5 +1,11 @@
-*Hello* :grinning: <br/>   
-My name is Margaux Girona I am from France :baguette_bread:    
-I am in South Korea because I choose to do my exchange semester in this country. I really love its culture and of course the food too. <br/>        
-I am an ingeneering student of [**ESILV**](https://www.esilv.fr/). I am the captain of the rowing association :rowboat:, actually this means that I am the coach. I love to play chess too :chess_pawn:. And I think that's all for me :hugs:.
+### 👋 Hello there!  
+My name is **Margaux Girona**, and I’m from France 🇫🇷🥖  
 
+I’m currently an **engineering student at [ESILV](https://www.esilv.fr/)**, specializing in **finance and applied mathematics**.  
+Last year, I was the captain of the university rowing association 🚣‍♀️ — which actually meant I was also the coach!  
+This year, I’ve taken on a new challenge as the communication manager for the team.  
+
+Beyond that, I love playing Go and diving into anything related to mathematics, finance, and quantitative modeling.  
+After completing my master’s degree, I hope to pursue a PhD in applied mathematics.  
+
+And… that’s a little bit about me 🤗  
